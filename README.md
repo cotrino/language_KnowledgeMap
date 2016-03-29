@@ -53,7 +53,7 @@ link to provide context and asking the user to fill in the gap. The quiz interfa
 A KnowledgeMap looks like this:
 ![KnowledgeMap](https://raw.githubusercontent.com/cotrino/language_KnowledgeMap/master/images/KnowledgeMap.png)
 
-An interactive demo visualization is available here: [interactive demo](http://localhost:8090/root/language_KnowledgeMap/raw/d38a4562a2dc187ea834d3b5dceba5065c99434c/client/demo.html)
+An interactive demo visualization is available here: [interactive demo at cotrino.com](http://www.cotrino.com/2016/03/knowledgemap/)
 
 There is also another visualization of the individual pages about which questions were asked:
 ![Page visualization](https://raw.githubusercontent.com/cotrino/language_KnowledgeMap/master/images/page_visualization.png)
