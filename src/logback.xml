@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+
+	<!-- http://logback.qos.ch/manual/configuration.html -->
+
+	<!-- sends logs to logback-beagle -->
+	<consolePlugin />
+
+	<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+		<!-- encoders are assigned the type ch.qos.logback.classic.encoder.PatternLayoutEncoder 
+			by default -->
+		<encoder>
+			<pattern>%d{HH:mm:ss.SSS} [%thread] %-5level %-36logger{36} [%-20file:%-3line] %msg%n</pattern>
+		</encoder>
+	</appender>
+
+	<logger name="org.neo4j.ogm" level="warn" />
+	<logger name="org.eclipse.jetty" level="warn" />
+	
+	<root level="debug">
+		<appender-ref ref="STDOUT" />
+	</root>
+
+</configuration>

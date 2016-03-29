@@ -1,0 +1,87 @@
+.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+  cursor: pointer;
+}
+
+.node circle {
+	opacity: 0.7;
+}
+
+.node text {
+  display: none;
+  font: 12px sans-serif;
+  stroke: #999;
+  stroke-width: 1px;
+}
+
+.node:hover circle {
+  stroke: #f00;
+}
+
+.node:hover text {
+  display: inline;
+}
+
+.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
+
+.node:hover {
+  stroke: #000;
+  stroke-width: 1.5px;
+}
+
+.node--leaf {
+  fill: white;
+}
+
+.label {
+  font: 11px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-anchor: middle;
+  text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff, 0 -1px 0 #fff;
+}
+
+.label,
+.node--root,
+.node--leaf {
+  pointer-events: none;
+}
+
+body {
+	font-family: Verdana;
+}
+
+#question {
+	border: inset 2px gray;
+	padding: 5px;
+	background: #ffe;
+}
+
+#answer {
+	border: outset 2px gray;
+	padding: 5px;
+	background: #ffc;
+}
+
+span.placeholder {
+	background: #f00;
+	font-color: white;
+}
+
+.correct {
+	background: #0f0;
+	font-color: white;
+}
+
+.wrong {
+	background: #f00;
+	font-color: white;
+}
+
+#knowledgegraph {
+	background: #222222;
+	font-color: white;
+	color: white;
+}
