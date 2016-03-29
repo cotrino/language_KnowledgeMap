@@ -1,0 +1,47 @@
+[[File:Alan Turing Memorial Closer.jpg|right|thumb|A [[statue]] of Alan Turing]]
+[[File:Bombe-rebuild.jpg|thumb|right|A rebuild of a machine made by Alan Turing]]
+
+'''Alan Mathison Turing''' [[Order of the British Empire|OBE]] [[FRS]] ([[London]], 23 June 1912 – [[Wilmslow]], [[Cheshire]], 7 June 1954) was an [[English people|English]] [[mathematician]] and [[computer scientist]]. He was born in [[Maida Vale]], London.<ref>Newman M.H.A. 1955. Alan Mathison Turing. 1912–1954. ''Biographical Memoirs of Fellows of the Royal Society'' '''1''': 253. [http://rsbm.royalsocietypublishing.org/content/1/253]</ref>
+
+== Young Life and Family ==
+Alan Turing was born in Maida Vale, London. His father was part of a family of [[Merchant|merchants]] from Scotland. His mother, Ethel Sara, was the [[daughter]] of an [[engineer]].
+
+=== Education ===
+Turing went to St. Michael's, a school at 20 Charles Road, St Leonards-on-sea, when he was six years old.
+
+== Career ==
+Turing was one of the people who worked on the first [[computers]]. He was the first person to think of using a computer to do things that were too hard for a person to do. He created the [[Turing machine]] in 1936. The machine was [[Imagination|imaginary]], but it included the idea of a [[computer program]]. 
+
+Turing was interested in [[artificial intelligence]]. He proposed the [[Turing test]], to say when a machine could be called "[[Intelligence|intelligent]]". A computer could be said to "think" if a human talking with it could not tell it was a machine.<ref>Harnad, Stevan 2008.  [http://eprints.ecs.soton.ac.uk/7741 The Annotation game: Turing (1950) on Computing, machinery and intelligence]. In: Epstein, Robert & Peters, Grace (eds) ''Parsing the Turing Test: philosophical and methodological issues in the quest for the thinking computer''. Springer</ref>
+
+During [[World War II]], Turing worked to break [[Germany|German]] [[cipher]]s (secret messages). Using [[cryptanalysis]] he helped to break the codes of the [[Enigma (machine)|Enigma]] machine. After that, he solved other German codes.
+
+From 1945 to 1947, Turing worked on the design of the [[ACE (computer)|ACE]] (Automatic Computing Engine) at the [[National Physical Laboratory]]. He presented a paper on 19 February 1946. That paper was "the first detailed design of a [[stored-program computer]]".<ref>Copeland, B. Jack 2006. ''Colossus: The secrets of Bletchley Park's code-breaking computers''. Oxford University Press. p108 ISBN 978-0-19-284055-4</ref> Although it was possible to build ACE, there were delays in starting the project. In late 1947 he returned to Cambridge for a sabbatical year. While he was at Cambridge, the [[Pilot ACE]] was built without him. It ran its first program on 10&nbsp;May 1950.
+
+== Private life ==
+Turing was a [[homosexual]] man. In 1952, he admitted having had sex with a man in [[England]]. At that time, [[homosexual]] acts were illegal. Turing was [[conviction|convicted]]. He had to choose between going to [[jail]] and taking [[hormone]]s to lower his sex drive. He decided to take the hormones.<ref>{{cite web |title=Letters of Note: Yours in distress, Alan |last=Turing |first=Alan |year=1952 |url=http://www.lettersofnote.com/2012/06/yours-in-distress-alan.html |archivedate=December 16, 2012 |archiveurl=http://www.webcitation.org/6CxLiSeL9}}</ref> After his punishment, he became [[erectile dysfunction|impotent]]. He also grew [[breast]]s.<ref>{{cite book | title=Alan Turing: The Enigma The Centenary Edition | publisher=Princeton University | author=Andrew Hodges | year=2012}}</ref>
+
+In May 2012, a [[private member's bill]] was put before the [[House of Lords]] to grant Turing a statutory [[pardon]].<ref name=Guardian-Pardon>{{cite web|title=Parliamentary bill launched for Alan Turing pardon|url=http://www.guardian.co.uk/uk/the-northerner/2012/jul/25/alan-turing-private-members-bill-lord-sharkey|publisher=The Guardian|accessdate=25 July 2012}}</ref> In July 2013, the government supported it.<ref name=turingguardian19july2013>{{cite web|url=http://www.guardian.co.uk/uk-news/2013/jul/19/enigma-codebreaker-alan-turing-posthumous-pardon|title=Enigma codebreaker Alan Turing to be given posthumous pardon|publisher=The Guardian|date=19 July 2013|author=Nicholas Watt}}</ref> A royal pardon was granted on 24<!-- Mercy is effective from 24 December although it was announced on the night of 23rd --> December 2013.<ref name=turingindependent24dec2013>{{cite web|url=http://www.independent.co.uk/news/uk/home-news/alan-turing-gets-his-royal-pardon-for-gross-indecency--61-years-after-he-poisoned-himself-9023116.html|title=Alan Turing gets his royal pardon for 'gross indecency' – 61 years after he poisoned himself|publisher=The Independent|date=23 December 2013|Author=Oliver Wright}}</ref><ref name=turingpardoncryptome24dec2013>{{cite web|url=http://cryptome.org/2013/12/turing-pardon.pdf|title=(Archived copy of) Royal Pardon for Alan Turing}}</ref>
+
+== Death ==
+In 1954, after suffering for two years, Turing died from [[cyanide]] poisoning. The cyanide came from either an [[apple]] which was poisoned with [[cyanide]], or from water that had cyanide in it. The reason for the confusion is that the police never tested the apple for cyanide.<ref>Hodges, Andrew 1983. ''Alan Turing: the enigma''. London: Burnett Books, p488. ISBN 0-04-510060-8</ref>It is also suspected that he committed suicide. 
+
+The treatment forced on him is now believed to be very wrong. It is against [[medical ethics]] and international laws of [[human rights]]. In August 2009, a [[petition]] asking the [[British Government]] to apologise to Turing for punishing him for being a homosexual was started.<ref>{{Cite book|title=Thousands call for Turing apology |url=http://news.bbc.co.uk/2/hi/technology/8226509.stm |publisher=BBC News  |date=31&nbsp;August 2009 |accessdate=31 August 2009}}</ref><ref>{{Cite book | title = Petition seeks apology for Enigma code-breaker Turing | url = http://www.cnn.com/2009/WORLD/europe/09/01/alan.turing.petition/index.html | publisher=CNN | date = 01&nbsp;September 2009 | accessdate =1 September 2009}}</ref> The petition received thousands of signatures.<ref>The petition was only open to UK citizens.</ref> [[Prime Minister of the United Kingdom|Prime Minister]] [[Gordon Brown]] acknowledged the petition. He called Turing's treatment "appalling".<ref>{{cite web | title = PM's apology to codebreaker Alan Turing: we were inhumane | url = http://www.guardian.co.uk/world/2009/sep/11/pm-apology-to-alan-turing | publisher=The Guardian| date = 11 September 2009 }}</ref>
+
+== References ==
+{{Reflist}}
+
+== Other websites ==
+*Jack Copeland 2012. Alan Turing: The codebreaker who saved 'millions of lives'. BBC News / Technology [http://www.bbc.co.uk/news/technology-18419691]
+
+{{DEFAULTSORT:Turing, Alan}}
+[[Category:English computer scientists]]
+[[Category:English LGBT people]]
+[[Category:English mathematicians]]
+[[Category:Gay men]]
+[[Category:LGBT scientists]]
+[[Category:Scientists from London]]
+[[Category:Suicides by poison]]
+[[Category:Suicides in the United Kingdom]]
+[[Category:1912 births]]
+[[Category:1954 deaths]]
